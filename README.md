@@ -2,7 +2,7 @@
 
 Welcome to the exciting world of Blackjack! This Java Swing-based Blackjack game allows you to enjoy the thrill of the casino from the comfort of your computer.
 
-![Blackjack Game Screenshot](images/blackjack-screenshot.png)
+![My Image](Images/Main.png)
 
 ## Table of Contents
 
@@ -10,8 +10,8 @@ Welcome to the exciting world of Blackjack! This Java Swing-based Blackjack game
 - [Features](#features)
 - [Installation](#installation)
 - [How to Play](#how-to-play)
-- [Screenshots](#screenshots)
 - [About the Game](#about-the-game)
+- [Screenshots](#screenshots)
 
 ## Game Overview
 
@@ -53,12 +53,20 @@ Blackjack, also known as 21, is one of the most popular card games in the world.
 
 6. The game will declare the winner, and your balance will be updated accordingly.
 
-## Screenshots
-
-
-
 ## About the Game
 
 This Blackjack game project was created by Sagi Menahem in 2016 as a pre-army project to learn programming in Java and explore the principles of Swing GUI development.
 
 If you have any questions or suggestions, please contact sagiia1997@gmail.com.
+
+## Screenshots
+
+![Game1](Images/Game1.png)
+
+![Game2](Images/Game2.png)
+
+![Game3](Images/Game3.png)
+
+![About](Images/About.png)
+
+![Help](Images/Help.png)
