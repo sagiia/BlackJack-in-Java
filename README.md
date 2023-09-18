@@ -2,7 +2,7 @@
 
 Welcome to the exciting world of Blackjack! This Java Swing-based Blackjack game allows you to enjoy the thrill of the casino from the comfort of your computer.
 
-![My Image](Images/Main.png)
+![Menu](Images/Menu.png)
 
 ## Table of Contents
 
